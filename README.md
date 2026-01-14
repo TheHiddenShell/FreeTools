@@ -20,10 +20,13 @@ No login, no password, no key required
 
 Install dependencies, clone the repository, and run the tool:
 
-**pip install requests colorama fake-useragent urllib3
-git clone https://github.com/TheHiddenShell/FreeTools.git
-cd FreeTools
-python3 main.py**
+**pip install requests colorama fake-useragent urllib3**
+
+**git clone https://github.com/TheHiddenShell/FreeTools.git**
+
+**cd FreeTools**
+
+**python3 main.py**
 
 💡 Notes
 
