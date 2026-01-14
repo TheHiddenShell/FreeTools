@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 🚀 ULTIMATE ADVANCED TRAFFIC GENERATOR PRO MAX
-🎨 CREATED BY: SHRABON~GOMEZ | 📱 MOBILE OPTIMIZED UI
+🎨 CREATED BY: @THE_HIDDEN_SHELL | 📱 MOBILE OPTIMIZED UI
 💯 100% SUCCESS RATE | ⚡ REAL-TIME ANALYTICS
 🔐 KEY AUTHENTICATION SYSTEM
 """
@@ -119,9 +119,9 @@ class KeyAuthSystem:
         if not valid_keys:
             # If can't fetch, use emergency keys
             emergency_keys = [
-                "SHRABON-PREMIUM-2024",
+                "PREMIUM-2024",
                 "TRAFFIC-PRO-MAX-V5",
-                "GOMEZ-ULTIMATE-KEY",
+                "ULTIMATE-KEY",
                 "ADMIN-ACCESS-ALLOWED"
             ]
             valid_keys = emergency_keys
@@ -185,10 +185,10 @@ class KeyAuthSystem:
 {Fore.CYAN}{'═'*70}
 {Fore.YELLOW}{Style.BRIGHT}🔐 KEY ACTIVATION SYSTEM
 {Fore.CYAN}{'═'*70}
-{Fore.MAGENTA}📍 Tool Created By: {Fore.GREEN}Shrabon~Gomez
+{Fore.MAGENTA}📍 Tool Created By: {Fore.GREEN}@THE_HIDDEN_SHELL
 {Fore.CYAN}{'─'*70}
 {Fore.YELLOW}📋 Instructions:
-{Fore.WHITE}1. Visit: {Fore.CYAN}https://github.com/TheHiddenShell/FreeTools
+{Fore.WHITE}1. Visit By: {Fore.CYAN} Proxys
 {Fore.WHITE}2. Check the {Fore.GREEN}auth.txt{Fore.WHITE} file for valid keys
 {Fore.WHITE}3. Enter your key below to activate the tool
 {Fore.WHITE}4. Contact admin for new key requests
@@ -265,7 +265,7 @@ class KeyAuthSystem:
             f"{Fore.WHITE}3. Message us for trial key",
             f"{Fore.WHITE}4. Trial valid for 24 hours",
             "",
-            f"{Fore.CYAN}Facebook: {Fore.GREEN}https://www.facebook.com/share/1B4TRBkyN3/",
+            f"{Fore.CYAN}Telegram: {Fore.GREEN}https://t.me/THE_HIDDEN_SHELL",
             f"{Fore.CYAN}GitHub: {Fore.GREEN}https://github.com/TheHiddenShell/FreeTools",
             "",
             f"{Fore.YELLOW}⚠️  Limited trial keys available daily!"
@@ -274,7 +274,7 @@ class KeyAuthSystem:
         self.ui.print_box(trial_info, "Trial Information", 'info')
         
         # Open Facebook
-        webbrowser.open("https://www.facebook.com/share/1B4TRBkyN3/")
+        webbrowser.open("https://t.me/THE_HIDDEN_SHELL")
         
         input(f"\n{Fore.YELLOW}Press Enter to continue...")
     
@@ -369,7 +369,7 @@ class KeyAuthSystem:
 {Fore.CYAN}{'═'*70}
 {Fore.YELLOW}{Style.BRIGHT}🔐 PREMIUM TRAFFIC GENERATOR - ACTIVATION REQUIRED
 {Fore.CYAN}{'═'*70}
-{Fore.MAGENTA}📍 Exclusive Tool by: {Fore.GREEN}Shrabon~Gomez
+{Fore.MAGENTA}📍 Exclusive Tool by: {Fore.GREEN}@THE_HIDDEN_SHELL
 {Fore.CYAN}{'─'*70}
 {Fore.YELLOW}This is a premium tool requiring activation.
 {Fore.YELLOW}Valid keys are maintained at:
@@ -1010,8 +1010,8 @@ class InteractiveMenu:
         
         if confirm == 'y':
             # Open Facebook for updates
-            webbrowser.open("https://www.facebook.com/share/1B4TRBkyN3/")
-            print(f"{Fore.GREEN}✅ Facebook page opened! Please follow for updates.\n")
+            webbrowser.open("https://t.me/THE_HIDDEN_SHELL")
+            print(f"{Fore.GREEN}✅ Telegram Channel opened! Please follow for updates.\n")
             
             self.engine.generate_traffic(url, visits, threads)
         
@@ -1057,7 +1057,7 @@ class InteractiveMenu:
             confirm = input(f"\n{Fore.YELLOW}🚀 Start quick attack? (y/N): {Fore.WHITE}").lower()
             
             if confirm == 'y':
-                webbrowser.open("https://www.facebook.com/share/1B4TRBkyN3/")
+                webbrowser.open("https://t.me/THE_HIDDEN_SHELL")
                 self.engine.generate_traffic(target['url'], visits, threads)
         
         input(f"\n{Fore.YELLOW}Press Enter to continue...")
@@ -1301,26 +1301,26 @@ class InteractiveMenu:
             f"{Fore.YELLOW}Current Key Type: {current_type}",
             "",
             f"{Fore.CYAN}Available Upgrades:",
-            f"{Fore.GREEN}1. PRO TIER - $10/month",
+            f"{Fore.GREEN}1. PRO TIER - $0/month",
             f"   ✓ Up to 1000 threads",
             f"   ✓ Premium proxy access",
             f"   ✓ Priority support",
             "",
-            f"{Fore.GREEN}2. PREMIUM TIER - $25/month",
+            f"{Fore.GREEN}2. PREMIUM TIER - $0/month",
             f"   ✓ Unlimited threads",
             f"   ✓ Elite proxy database",
             f"   ✓ 24/7 priority support",
             f"   ✓ All features unlocked",
             "",
             f"{Fore.YELLOW}Contact admin for upgrade instructions:",
-            f"{Fore.CYAN}Facebook: https://www.facebook.com/share/1B4TRBkyN3/",
+            f"{Fore.CYAN}Telegram: https://t.me/THE_HIDDEN_SHELL",
             f"{Fore.CYAN}GitHub: https://github.com/TheHiddenShell/FreeTools"
         ]
         
         self.ui.print_box(upgrade_info, "Upgrade Options", 'warning')
         
         # Open Facebook
-        webbrowser.open("https://www.facebook.com/share/1B4TRBkyN3/")
+        webbrowser.open("https://t.me/THE_HIDDEN_SHELL")
         
         input(f"\n{Fore.YELLOW}Press Enter to continue...")
     
@@ -1332,7 +1332,7 @@ class InteractiveMenu:
         
         about_content = [
             f"{Fore.YELLOW}Ultimate Traffic Generator Pro Max v5.0",
-            f"{Fore.CYAN}Created by: {Fore.GREEN}Shrabon~Gomez",
+            f"{Fore.CYAN}Created by: {Fore.GREEN}@THE_HIDDEN_SHELL",
             f"{Fore.CYAN}Your Key Type: {Fore.GREEN}{key_type}",
             f"{Fore.CYAN}Version: 5.0 Professional Edition",
             f"{Fore.CYAN}Release Date: 2024",
@@ -1352,7 +1352,7 @@ class InteractiveMenu:
             f"  {Fore.RED}⚠️{Fore.WHITE} Only test on your own servers",
             f"  {Fore.RED}⚠️{Fore.WHITE} Follow Facebook for updates",
             "",
-            f"{Fore.CYAN}Facebook: {Fore.GREEN}https://www.facebook.com/share/1B4TRBkyN3/",
+            f"{Fore.CYAN}Telegram: {Fore.GREEN}https://t.me/THE_HIDDEN_SHELL",
             f"{Fore.CYAN}GitHub Auth: {Fore.GREEN}https://github.com/TheHiddenShell/FreeTools"
         ]
         
@@ -1382,7 +1382,7 @@ class InteractiveMenu:
                     self.about_menu()
                 elif choice == '0':
                     print(f"\n{Fore.GREEN}👋 Thank you for using Ultimate Traffic Generator!")
-                    print(f"{Fore.YELLOW}📍 Created by: {Fore.GREEN}Shrabon~Gomez")
+                    print(f"{Fore.YELLOW}📍 Created by: {Fore.GREEN}@THE_HIDDEN_SHELL")
                     print(f"{Fore.CYAN}🔥 Follow on Facebook for more tools!")
                     time.sleep(2)
                     break
